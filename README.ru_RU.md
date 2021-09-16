@@ -32,6 +32,7 @@
 * [pedroguima](https://github.com/pedroguima)
 * Ben
 * [bharatnc](https://github.com/bharatnc)
+* [FunPython](https://github.com/FunPythonEC) - [ZioGuillo](https://github.com/zioguillo)
 
 
 #### [[⬆]](#toc) <a name='general'>Общие вопросы:</a>
