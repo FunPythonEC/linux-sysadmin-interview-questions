@@ -5,7 +5,7 @@
 #Change the SECS to total seconds to monitor CPU usage.
 #UNIT_TIME is the interval in seconds between each sampling
 
-
+                                                              
 function report_utilisation {
   # Process collected data
   echo
